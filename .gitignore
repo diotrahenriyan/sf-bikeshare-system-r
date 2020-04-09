@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Other documentation or data files
-.csv
+*.csv
